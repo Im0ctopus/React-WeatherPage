@@ -1,4 +1,4 @@
-#Simple weather page
+# Simple weather page
 
 A simple weather page a public API
 
