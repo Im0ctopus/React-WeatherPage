@@ -148,6 +148,7 @@ main {
   border-radius: 10px;
   position: relative;
   padding: 20px;
+  box-shadow: 0 5px 12px -10px black;
 }
 
 .extra_title {
