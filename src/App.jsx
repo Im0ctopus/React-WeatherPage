@@ -5,7 +5,7 @@ import moment from 'moment/moment';
 
 function App() {
 
-  const api_key = 'f399118b87f04e9c9d1ece5eafd43fc8';
+  const api_key = '4d42c880de1b41f6ac8c7db6fbf4b8be';
   const [isLoading, setIsLoading] = useState(true);
   var lati = 0;
   var long = 0;
